@@ -7,6 +7,6 @@ def shuffle(random_list):
     return random_list
 
 
-y = shuffle(random_list)
+mixing_list = shuffle(random_list)
 print(f'Первоначальный список: {random_list}')
-print(f'Перемешанный список: {y}')
+print(f'Перемешанный список: {mixing_list}')
